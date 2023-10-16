@@ -1,0 +1,22 @@
+.box {
+    background-color: steelblue;
+    border: 3px solid black;
+    padding: 3px;
+    color: white;
+}
+.empty {
+    height: 2.5rem;
+    padding: 11px 0;
+}
+
+.nested-box {
+    background-color: yellowgreen;
+    border: none;
+    padding: 3px;
+    color: white;
+    border: 1px solid steelblue;
+}
+
+.mt1-5rem {
+    margin-top: 1.5rem;
+}
